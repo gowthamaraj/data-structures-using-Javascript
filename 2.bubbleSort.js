@@ -17,3 +17,7 @@ let t0 = performance.now()
 sort = bubbleSort([5,6,8,4,1,2,9])
 let t1 = performance.now()
 console.log(sort,"time :", t1-t0)
+// [
+//     1, 2, 4, 5,
+//     6, 8, 9
+//   ] time : 0.22149991989135742

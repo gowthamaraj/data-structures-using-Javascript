@@ -5,3 +5,15 @@
     01.stack.js
     02.queue.js
     03.linkedlist.js
+    04.hashtable.js
+
+## Stack examples
+    05.KStacks.js
+    06.minStack.js
+    07.TwoStackQueue.js
+    08.isBalanced.js
+
+## Queue examples
+    09.kthToLastNode.js
+    10.reverseQueue.js
+    11.partitionQueue.js

@@ -4,3 +4,4 @@
 ## Stack Data Structure
     01.stack.js
     02.queue.js
+    03.linkedlist.js

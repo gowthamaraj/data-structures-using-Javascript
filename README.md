@@ -17,3 +17,6 @@
     09.kthToLastNode.js
     10.reverseQueue.js
     11.partitionQueue.js
+
+## Trees
+    12.basicTree.js

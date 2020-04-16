@@ -20,3 +20,4 @@
 
 ## Trees
     12.basicTree.js
+    13.bst.js
